@@ -39,18 +39,18 @@ spotify, rust, spotify-adblock
 ### Home Edition :desktop_computer: 	
 **Pacman:** krita, jupyter-notebook, libreoffice-still
 
-## Setting Up
-1. [Pre Installation]()
-2. [Installation]()
-3. [Post Installation]()
-4. [Customization]()
+## Installation
+1. [Preparation](/edvein-rin/os-setup/wiki/Manjaro-Installation#preparation)
+2. [OS Installation](/edvein-rin/os-setup/wiki/Manjaro-Installation#os-installation)
+3. [Configuration](/edvein-rin/os-setup/wiki/Manjaro-Installation#configuration)
+4. [Customization](/edvein-rin/os-setup/wiki/Manjaro-Installation#customization)
 
 # Windows
 
 ## Overview
 Windows 10 Pro 64 bit. No spying, useless background processes and other trash. Besides that - nothing special.
 
-## Setting Up
+## Installation
 Default Windows install. Nothing is automated yet. Chezmoi + Chocolatey could solve this.
 
 After installing you may need run (at Manjaro) `sudo update-grub` for Windows to appear in grub.
