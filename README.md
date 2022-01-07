@@ -18,5 +18,5 @@ That's all :)
 
 ## TODO
 
-1. Accounts support (not just home/work).
+1. Accounts support (not just home/work). *// Use chezmoi templates*
 2. Windows automation setup.
