@@ -15,3 +15,8 @@ That's all :)
 
 ## Detailed Overview...
 ... and the other info you can find at [wiki](https://github.com/edvein-rin/os-setup/wiki).
+
+## TODO
+
+1. Accounts support (not just home/work).
+2. Windows automation setup.
