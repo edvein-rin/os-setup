@@ -40,10 +40,10 @@ spotify, rust, spotify-adblock
 **Pacman:** krita, jupyter-notebook, libreoffice-still
 
 ## Installation
-1. [Preparation](/edvein-rin/os-setup/wiki/Manjaro-Installation#preparation)
-2. [OS Installation](/edvein-rin/os-setup/wiki/Manjaro-Installation#os-installation)
-3. [Configuration](/edvein-rin/os-setup/wiki/Manjaro-Installation#configuration)
-4. [Customization](/edvein-rin/os-setup/wiki/Manjaro-Installation#customization)
+1. [Preparation](https://github.com/edvein-rin/os-setup/wiki/Manjaro-Installation#preparation)
+2. [OS Installation](https://github.com/edvein-rin/os-setup/wiki/Manjaro-Installation#os-installation)
+3. [Configuration](https://github.com/edvein-rin/os-setup/wiki/Manjaro-Installation#configuration)
+4. [Customization](https://github.com/edvein-rin/os-setup/wiki/Manjaro-Installation#customization)
 
 # Windows
 
