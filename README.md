@@ -4,8 +4,7 @@ Dual boot: **Manjaro** and **Windows 10**.
 **Windows** is for games.  
 **Manjaro** is for everything else.
 
-Setup is semi-automatic. There are 2 profiles: home and work.  
-Both share the whole installation process, but have different additional apps installed.
+Setup is semi-automatic. Configured by flags.  
 
 ## Quick Start
 First of all follow [Manjaro installation guide](https://github.com/edvein-rin/os-setup/wiki/Manjaro-Installation).  
